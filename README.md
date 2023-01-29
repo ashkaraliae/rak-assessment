@@ -1,6 +1,7 @@
 # rak-assessment
 
 Steps to start the client:
+Used recoil for easy state management/ can be done with redux as well.
 
 1. run --> npm install
 2. run --> npm start
